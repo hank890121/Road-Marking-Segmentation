@@ -1,0 +1,12 @@
+tqdm==4.66.5
+opencv-python==4.10.0.84
+natsort==8.4.0
+rich==13.8.0
+joblib==1.4.2
+joblib-progress==1.0.5
+ema-pytorch==0.6.2
+transformers==4.44.2
+simple-parsing==0.1.5
+segmentation-models-pytorch==0.3.4
+matplotlib==3.9.2
+tensorboard==2.17.1
