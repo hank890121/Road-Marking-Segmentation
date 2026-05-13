@@ -31,8 +31,15 @@ To inference a video:
 ```
 python -m tools.inference_video <path/to/your/category/csv> <path/to/your/video>\
  <path/to/your/output> <path/to/your/checkpoint> <height> <width> <output_framerate> <use _sliding_inference>
+
 ```
 For example,
 ```
 python -m tools.inference_video data/csv/rlmd.csv inference/videos/sample_video.mp4 inference/output/inference_output.mp4 weight/80000.pth 1080 1920 30 --sliding-window
 ```
+
+## Sample Image
+
+<p align="center">
+  <img src="images/demo.png" width="600">
+</p>
