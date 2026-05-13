@@ -41,5 +41,5 @@ python -m tools.inference_video data/csv/rlmd.csv inference/videos/sample_video.
 ## Sample Image
 
 <p align="center">
-  <img src="images/demo.png" width="600">
+  <img src="sample.png" width="600">
 </p>
